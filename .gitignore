@@ -1,0 +1,14 @@
+# Obsidian 内部設定
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# Quartzを後で入れる場合に備えた除外（任意）
+node_modules/
+.quartz-cache/
+public/
